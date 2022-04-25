@@ -1,4 +1,6 @@
-﻿namespace restSharp.Tables
+﻿using System;
+
+namespace restSharp.Tables
 {
   public class Commands
   {

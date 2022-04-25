@@ -1,6 +1,5 @@
-﻿using System . Collections . Generic;
-
-using Microsoft . EntityFrameworkCore . Metadata . Internal;
+﻿using System;
+using System . Collections . Generic;
 
 using MySql . Data . MySqlClient;
 
